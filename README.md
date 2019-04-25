@@ -23,5 +23,5 @@ setInterval(function() {
         input.value = $('.highlight').text()
         $(input).trigger(ev)
     }
-}, 100)
+}, 1)
 ```
